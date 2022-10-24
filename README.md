@@ -18,7 +18,7 @@ Not bad for a few hours seeing if it would work.
 
 Install manually using this URL:
 
-    https://github.com/Tyfy/OctoPrint-TapoSmartplug/archive/master.zip
+    https://github.com/AsgerSuhr/OctoPrint-TapoSmartplug/archive/master.zip
 
 
 ## Configuration
