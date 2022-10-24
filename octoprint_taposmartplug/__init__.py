@@ -409,7 +409,8 @@ class taposmartplugPlugin(octoprint.plugin.SettingsPlugin,
 			p100.login() #Sends credentials to the plug and creates AES Key and IV for further methods
 			response = p100.getDeviceInfo() #Returns dict with all the device info
 
-			chk = self.lookup(json.loads(response), *["result", "device_on"])
+			self._taposmartplug_logger.debug(response)
+			chk = self.lookup(response, *["result", "device_on"])
 
 			self._taposmartplug_logger.debug(chk)
 
