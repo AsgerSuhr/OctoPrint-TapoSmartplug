@@ -3,7 +3,7 @@
 This is a fork of https://github.com/TyFy/OctoPrint-TPLinkSmartplug, I've fixed a typeError in __init__.py
 
 ##  Screenshots
-
+How to install an off button https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button
 ## Setup
 
 Install manually using this URL:
