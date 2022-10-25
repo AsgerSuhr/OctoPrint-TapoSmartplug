@@ -46,6 +46,3 @@ Once installed go into settings and enter the ip address, username and password 
 - **Run System Command Before Off**
   - When checked will run system command configured in **System Command Off** setting after a delay in seconds configured in **System Command Off Delay**.
   
-## Get Help
-
-If you experience issues with this plugin or need assistance please use the issue tracker by clicking issues above.
