@@ -2,6 +2,9 @@
 
 This is a fork of https://github.com/TyFy/OctoPrint-TPLinkSmartplug, I've fixed a typeError in __init__.py
 
+# 3 nov. 2023
+updated to support new firmware update for tapo, please use this PyP100 library https://github.com/almottier/TapoP100 instead of the standard one.
+
 ##  How to install an off button for the Raspberry Pi
 - https://embeddedcomputing.com/technology/open-source/development-kits/raspberry-pi-power-up-and-shutdown-with-a-physical-button
 ## Setup
