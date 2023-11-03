@@ -33,7 +33,7 @@ plugin_url = "https://github.com/Tyfy/OctoPrint-TapoSmartplug"
 plugin_license = "AGPLv3"
 
 # Any additional requirements besides OctoPrint should be listed here
-plugin_requires = ["uptime", "git+https://github.com/almottier/TapoP100.git@main"]#"PyP100"]
+plugin_requires = ["uptime", "TapoP100 @ git+https://github.com/almottier/TapoP100.git@main"]
 
 ### --------------------------------------------------------------------------------------------------------------------
 ### More advanced options that you usually shouldn't have to touch follow after this point
